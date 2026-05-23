@@ -1,6 +1,6 @@
 # E-Commerce Pricing & Promotion Optimization Engine
 
-A rigorous statistical framework that reveals the TRUE impact of promotions — separating real lift from what customers would have bought anyway. Cuts wasted discount spend by 60%.
+A rigorous statistical framework that reveals the TRUE impact of promotions, separating real lift from what customers would have bought anyway. Cuts wasted discount spend by 60%.
 
 ## Problem
 A Jumia-style e-commerce platform runs 200+ promotions/month. Nobody knows which ones actually caused more sales. They're losing ₦40M/month in unnecessary discounts.
